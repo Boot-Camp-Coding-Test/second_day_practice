@@ -17,3 +17,4 @@ def solution(progresses, speeds):
     answer.append(res)
     return answer
    
+# 기본문제만 돌아감, 내일 스챌끝나고 마무리..
